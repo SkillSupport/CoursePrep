@@ -1,6 +1,6 @@
 # Microsoft Learning Course Prep
 
-##이 사이트는 Azure 교육 과정에 필요한 가이드 문서를 열람 및 다운로드 할 수 있습니다.
+## 이 사이트는 Azure 교육 과정에 필요한 가이드 문서를 열람 및 다운로드 할 수 있습니다.
 
 [**1. 가이드__Azure_MOC_사전_실습_환경_구성_2020_V1.pdf**](https://github.com/SkillSupport/CoursePrep/blob/master/%5B%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Azure%20MOC%20%EC%82%AC%EC%A0%84%20%EC%8B%A4%EC%8A%B5%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%84%B1%202020_V1.pdf "클릭")
 1.  이 문서는 Azure 실습에 필요한 Azure Pass 구독의 활성화 및 추가 관리자 계정의 활성화에 대한 가이드입니다.
